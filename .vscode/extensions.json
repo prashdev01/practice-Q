@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "beardedbear.beardedtheme",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "formulahendry.code-runner",
+        "ms-python.python",
+        "ms-toolsai.jupyter-renderers"
+    ]
+}
